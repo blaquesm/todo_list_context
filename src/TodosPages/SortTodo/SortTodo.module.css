@@ -1,0 +1,12 @@
+.sortButtonOn {
+	background: rgb(56, 185, 99);
+	color: #fff;
+	border-radius: 50%;
+	font-weight: bold;
+}
+.sortButtonOff {
+	background: rgb(63, 63, 63);
+	color: #faf6f6;
+	border-radius: 50%;
+	font-weight: bold;
+}
